@@ -25,7 +25,7 @@ sudo dpkg -i cnvnator_0.3.2-1ubuntu10.04.deb
 
 #### Download Links
 
-* [Ubuntu 14.04 (trusty) cnvnator-0.3.2][7]
+* [Ubuntu 14.04 (trusty) cnvnator-0.3.2][6]
 
 #### Installation Process
 
